@@ -1,0 +1,133 @@
+body{
+    background-color: gray;
+    height: 1300px;
+}
+
+.box1{
+    background-color: beige;
+    width: 300px;
+    height: 100px;
+    border: 5px solid red;
+    border-radius: 8px;
+    color: brown;
+    text-shadow: 2px 2px 4px brown;
+    box-shadow: 4px 4px purple;
+    font-size: 19px;
+    position: relative;
+    left: 425px;
+}
+.mainbox{
+    height: 550px;
+    padding-right: 80px;
+    border: 5px solid green;
+}
+.box2{
+    
+    background-color: beige;
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 8px;
+    box-shadow: 4px 4px purple;
+    float: right;   
+}
+img{
+    padding: 35px 0px 0px 30px;
+}
+.box3{
+    background-color: beige;
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 8px;
+    color:rgb(14, 1, 14);
+    text-shadow: 3px 3px 4px rgb(146, 7, 146);
+    box-shadow: 4px 4px purple;
+    font-size: 20px;
+    text-align: center;
+}
+.box4{
+    background-color: greenyellow;
+    width: 450px;
+    height: 75px;
+    border: 5px solid red;
+    border-radius: 8px;
+    padding-left: 10px;
+    color: brown;
+    box-shadow: 4px 4px purple;
+    font-size: 18px;
+    font-style: oblique;
+    position: relative;
+    left:350px;
+    position: fixed;
+}
+div.para2{
+    position: relative;
+    left: 275px;
+    top: -62px;
+    font-size: 16px;
+    font-style:oblique ;
+}
+.box5{
+    background-color: beige;
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 8px;
+    color: rgb(26, 23, 26);
+    text-shadow: 3px 3px 5px rgb(152, 13,152);
+    box-shadow: 4px 4px purple;
+    font-size: 16px;
+    float: right;
+    text-align: center;
+    margin-top: 110px;
+    
+}
+.box6{
+    background-color: beige;
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 8px;
+    color: rgb(26, 23, 26);
+    text-shadow: 3px 3px 5px rgb(152, 13, 152);
+    box-shadow: 4px 4px rgb(21, 21, 21);
+    font-size: 21px;
+    margin-top: 110px;
+
+}
+.mainbox2{
+    background-color: green;
+    width: 600px;
+    height: 490px;
+    border: 5px solid purple;
+    position: relative;
+    left: 25%;
+    top: 20px;
+    text-align: center;
+    z-index: -2;
+
+}
+.box7{
+    background-color: rgb(252, 252, 141);
+    width: 49%;
+    height: 200px;
+    position: relative;
+    left: 3px;
+
+}
+.box8{
+    background-color: rgb(252, 252, 141);
+    width: 49%;
+    height: 200px;
+    position: relative;
+    left:51%;
+    top:-218px;
+}
+.box9{
+    background-color: rgb(252, 252, 141);
+    width: 101%;
+    height:200px;
+    position: relative;
+    bottom: 225px;
+}
